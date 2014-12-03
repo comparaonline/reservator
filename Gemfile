@@ -25,3 +25,7 @@ gem 'spring',        group: :development
 
 gem 'pg'
 
+gem 'twitter-bootstrap-rails'
+gem 'therubyracer'
+gem 'less-rails'
+
